@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/busanScience/static/css/main.77afb116.css",
+    "main.js": "/busanScience/static/js/main.cbef7efe.js",
+    "static/media/banner02.png": "/busanScience/static/media/banner02.21bb2eae3c12b0761525.png",
+    "static/media/banner01.png": "/busanScience/static/media/banner01.4d233866c4d2c3e95e25.png",
+    "static/media/banner03.png": "/busanScience/static/media/banner03.63c9a6107933d56e0892.png",
+    "index.html": "/busanScience/index.html",
+    "static/media/floor_outdoor.svg": "/busanScience/static/media/floor_outdoor.8aa85376fc48b53c7402.svg",
+    "static/media/floor_3.svg": "/busanScience/static/media/floor_3.2971b407e4cbe6964387.svg",
+    "static/media/floor_2.svg": "/busanScience/static/media/floor_2.57d98a7f0ac8d58d3b2a.svg",
+    "static/media/floor_1.svg": "/busanScience/static/media/floor_1.5ac36e9893bd0f901622.svg",
+    "static/media/floor_4.svg": "/busanScience/static/media/floor_4.b4214b8d5afb97c0522c.svg",
+    "main.77afb116.css.map": "/busanScience/static/css/main.77afb116.css.map",
+    "main.cbef7efe.js.map": "/busanScience/static/js/main.cbef7efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77afb116.css",
+    "static/js/main.cbef7efe.js"
+  ]
+}
